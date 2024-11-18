@@ -1,0 +1,47 @@
+/* Navbar Styling */
+.navbar {
+    margin-bottom: 30px;
+}
+
+/* Book Card Styling */
+.card {
+    height: 50%;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+/* Center content */
+.container {
+    margin-top: 50px;
+}
+
+.text-center {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Buttons */
+.btn-primary {
+    width: 100%;
+    
+}
+.topic{
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+
+  /* Footer */
+  footer {
+    background-color: #333;
+  }
+  
+  footer p {
+    margin: 0;
+    color: #ccc;
+  }
